@@ -1,0 +1,8 @@
+#Api files to ignore
+
+api/node_modules/
+
+api/mysql/
+api/dist/
+
+api/*env
